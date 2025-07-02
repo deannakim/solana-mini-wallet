@@ -16,6 +16,7 @@ A practical, minimalistic CLI wallet utility built with Rust for the Solana bloc
 2. Run `cargo run`
 3. Enter any Solana wallet address to view its SOL balance
 
+
 ---
 
 **This project showcases practical skills in Rust and blockchain development,  
