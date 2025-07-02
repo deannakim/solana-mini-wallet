@@ -18,9 +18,9 @@ Make sure that transaction.png and success.png are in the same directory as this
 
 
 ## Transaction Input Example
-!Transaction Screenshot
-Transaction Success Example
-!Success Screenshot
+![Transaction Screenshot](transaction.png)
+
+![Success Screenshot](success.png)
 
 ## Usage
 Clone the repository and install Rust.
