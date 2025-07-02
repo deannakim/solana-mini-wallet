@@ -24,10 +24,10 @@ Clone the repository and install Rust.
 Run cargo run in the project directory.
 
 Follow the prompts:
-Enter any Solana wallet address to view its SOL balance
-Enter recipient wallet address
-Enter amount to send (SOL)
-Enter your private key (base58 string from Phantom or other Solana wallet)
+-Enter any Solana wallet address to view its SOL balance
+-Enter recipient wallet address
+-Enter amount to send (SOL)
+-Enter your private key (base58 string from Phantom or other Solana wallet)
 View the transaction signature and check it on Solscan
 
 This project showcases practical skills in Rust and blockchain development,
