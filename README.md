@@ -14,10 +14,7 @@ Easily extensible for additional Solana wallet features
 
 ## Example Screenshots
 Below are screenshots of a successful transaction using this CLI tool.
-Make sure that transaction.png and success.png are in the same directory as this README file.
 
-
-## Transaction Input Example
 ![Transaction Screenshot](transaction.png)
 
 ![Success Screenshot](success.png)
